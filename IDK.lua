@@ -13,7 +13,7 @@ local config = {
 
 -- UI 
 local ScreenGui = Instance.new("ScreenGui", LocalPlayer:WaitForChild("PlayerGui"))
-ScreenGui.Name = "SuperRingV6_Extreme"
+ScreenGui.Name = "你敢給我改試試"
 ScreenGui.ResetOnSpawn = false
 
 local MainFrame = Instance.new("Frame", ScreenGui)
